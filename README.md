@@ -1,2 +1,2 @@
 # Python-series_codes
-daily python codes of jupyter notebook
+daily python codes on jupyter notebook
